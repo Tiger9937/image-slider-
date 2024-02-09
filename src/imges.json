@@ -64,39 +64,39 @@
       },
       {
         "id": 10,
-        "name": "astronaut with a delivery man's bag on his back an",
+        "name": "two child see nuclear attack",
         "directory": "./img/1 (10).png",
-        "color":""
+        "color":"#827222"
       },
       {
         "id": 11,
-        "name": "astronaut with a delivery man's bag on his back an",
+        "name": "two children see nuclear attack case",
         "directory": "./img/1 (11).png",
-        "color":""
+        "color":"#fbdd75"
       },
       {
         "id": 12,
         "name": "astronaut with a delivery man's bag on his back an",
         "directory": "./img/1 (12).png",
-        "color":""
+        "color":"#02cde2"
       },
       {
         "id": 13,
-        "name": "astronaut with a delivery man's bag on his back an",
-        "directory": "./img/1 (12).png",
-        "color":""
+        "name": "astronaut deliver man's on mars",
+        "directory": "./img/1 (13).png",
+        "color":"#e6e9e8"
       },
       {
         "id": 14,
-        "name": "astronaut with a delivery man's bag on his back an",
-        "directory": "./img/1 (12).png",
-        "color":""
+        "name": "last selfie on earth",
+        "directory": "./img/1 (14).png",
+        "color":"#f7d48d"
       },
       {
         "id": 15,
-        "name": "astronaut with a delivery man's bag on his back an",
-        "directory": "./img/1 (12).png",
-        "color":""
+        "name": "unity of india",
+        "directory": "./img/1 (15).png",
+        "color":"#f48a24"
       }
 
     ]
